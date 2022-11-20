@@ -1,0 +1,7 @@
+{
+"bot_token": "TOKEN",
+"prefix": "<",
+"channelnames": "Fox Runs Cord",
+"rolenames": "FOXES RUNS CORD",
+"spam_text": ["@everyone FOXES Runs Cord", "@everyone Boom! Get Nuked", "@everyone FOXES Are Cool", "@everyone goated"]
+}
